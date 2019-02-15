@@ -1,16 +1,16 @@
 +++
 # Display name
-name = "Nelson Bighetti"
+name = "Benjamin Y Andrew"
 
 # Is this the primary user of the site?
 superuser = true
 
 # Role/position
-role = "Professor of Artificial Intelligence"
+role = "MD/MHS Candidate"
 
 # Organizations/Affiliations
 #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-organizations = [ { name = "Stanford University", url = "" } ]
+organizations = [ { name = "Duke University School of Medicine", url = "" } ]
 
 # Short bio (displayed in user profile at end of posts)
 bio = "My research interests include distributed robotics, mobile computing and programmable matter."
@@ -20,16 +20,25 @@ email = ""
 
 # List (academic) interests or hobbies
 interests = [
-  "Artificial Intelligence",
-  "Computational Linguistics",
-  "Information Retrieval"
+  "Cardiothoracic Anesthesiology",
+  "Critical Care Medicine",
+  "Perioperative Organ Protection",
+  "Risk Prediction Modeling",
+  "Heterogeneity of Treatment Effects",
+  "Statistics",
+  "Epidemiology"
 ]
 
 # List qualifications (such as academic degrees)
 [[education.courses]]
-  course = "PhD in Artificial Intelligence"
-  institution = "Stanford University"
-  year = 2012
+  course = "MD"
+  institution = "Duke University School of Medicine"
+  year = 2019
+  
+[[education.courses]]
+  course = "MHS in Clinical Research"
+  institution = "Duke University School of Medicine"
+  year = 2018
 
 [[education.courses]]
   course = "MEng in Artificial Intelligence"
