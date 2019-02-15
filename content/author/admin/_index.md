@@ -16,7 +16,7 @@ organizations = [ { name = "Duke University School of Medicine", url = "" } ]
 bio = "My research interests include distributed robotics, mobile computing and programmable matter."
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email = ""
+email = "benjamin.andrew@duke.edu"
 
 # List (academic) interests or hobbies
 interests = [
