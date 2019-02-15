@@ -26,7 +26,8 @@ interests = [
   "Risk Prediction Modeling",
   "Heterogeneity of Treatment Effects",
   "Statistics",
-  "Epidemiology"
+  "Epidemiology",
+  "Data Visualization"
 ]
 
 # List qualifications (such as academic degrees)
