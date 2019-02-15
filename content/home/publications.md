@@ -4,7 +4,7 @@
 widget = "publications"  # Do not modify this line!
 active = true  # Activate this widget? true/false
 
-title = "Recent Publications"
+title = "Publications"
 subtitle = ""
 
 # Order that this section will appear in.
@@ -18,7 +18,7 @@ count = 10
 #   2 = Compact
 #   3 = Card
 #   4 = Citation
-view = 2
+view = 1
 
 # Filter by publication type.
 # -1: Any
