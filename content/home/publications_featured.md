@@ -4,6 +4,7 @@
 # `featured = true` in their front matter.
 widget = "publications_featured"  # Do not modify this line!
 active = true  # Activate this widget? true/false
+detailed_list = true
 
 title = "Select Publications"
 subtitle = ""
