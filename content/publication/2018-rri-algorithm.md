@@ -13,7 +13,7 @@ title = "Intraoperative Renal Resistive Index as an Acute Kidney Injury Biomarke
 url_code = ""
 url_dataset = ""
 url_pdf = ""
-url_project = "project/aki"
+url_project = ""
 url_slides = ""
 url_video = ""
 
