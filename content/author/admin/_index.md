@@ -13,7 +13,7 @@ role = "MD/MHS Candidate"
 organizations = [ { name = "Duke University School of Medicine", url = "" } ]
 
 # Short bio (displayed in user profile at end of posts)
-bio = "My research interests include distributed robotics, mobile computing and programmable matter."
+# bio = "My research interests include distributed robotics, mobile computing and programmable matter."
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email = "benjamin.andrew@duke.edu"
