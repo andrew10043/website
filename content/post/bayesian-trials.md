@@ -14,5 +14,5 @@ view = 3
 image = "post-bayesian-trials.jpeg"
 caption = ""
 +++
-![Example image](/static/bayesian-trials.jpeg)
+(/static/img/bayesian-trials.jpeg)
 An interactive application for the Bayesian re-analysis of clinical trials. Built using R (Shiny). Access the application [here](https://benjamin-andrew.shinyapps.io/bayesian_trials/) or run locally by typing runGitHub(rep = 'bayesian_trials', username = 'andrew10043') in R (requires that the Shiny package is installed).
