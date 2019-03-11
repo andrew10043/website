@@ -11,6 +11,6 @@ view = 3
 
 # Optional featured image (relative to `static/img/` folder).
 [header]
-image = "post-bayesian-trials.png"
+image = "post-bayesian-trials.jpeg"
 caption = ""
 +++
