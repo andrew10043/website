@@ -85,4 +85,4 @@ interests = [
 
 +++
 
-I am a fifth-year MD/MHS candidate at the Duke University School of Medicine where I received formal research training through the Duke Clinical Research Training Program. After graduation I will enter residency in anesthesiology where I plan to continue my clinical research. My primary interests include risk prediction and assessment of heterogeneity of treatment effects in the context of peri-operative organ injury.
+I am a fifth-year MD/MHS candidate and an incoming resident physician in the Department of Anesthesiology at Duke University School of Medicine. During my time in medical school I received formal research training through the Duke Clinical Research Training Program. My primary interests include risk prediction and assessment of heterogeneity of treatment effects in the context of peri-operative organ injury and critical care.
