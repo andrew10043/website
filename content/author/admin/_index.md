@@ -6,11 +6,11 @@ name = "Ben Andrew"
 superuser = true
 
 # Role/position
-role = "MD/MHS Candidate"
+role = "Incoming PGY-1"
 
 # Organizations/Affiliations
 #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-organizations = [ { name = "Duke University School of Medicine", url = "" } ]
+organizations = [ { name = "Department of Anesthesiology"\n"Duke University School of Medicine", url = "" } ]
 
 # Short bio (displayed in user profile at end of posts)
 # bio = "My research interests include distributed robotics, mobile computing and programmable matter."
