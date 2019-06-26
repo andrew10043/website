@@ -11,7 +11,7 @@ view = 3
 
 # Optional featured image (relative to `static/img/` folder).
 [header]
-image = """
+image = ""
 caption = ""
 +++
 [In this post] (https://benyandrew.netlify.com/blog/bayesian_rct/) I work through an example of how to approach modeling of RCT data to explore both HTE and patient-specific efficiacy.
