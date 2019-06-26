@@ -6,7 +6,7 @@ name = "Ben Andrew"
 superuser = true
 
 # Role/position
-role = "Incoming Resident Physician"
+role = "Resident Physician-Scientist"
 
 # Organizations/Affiliations
 #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
