@@ -85,4 +85,4 @@ interests = [
 
 +++
 
-I am an incoming research-track resident physician in the Department of Anesthesiology at Duke University School of Medicine. During my time in medical school at Duke University I received formal research training through the Duke Clinical Research Training Program. My primary interests include risk prediction and assessment of heterogeneity of treatment effects in the context of peri-operative organ injury and critical care.
+I am a resident physician-scientist in the Department of Anesthesiology at the Duke University School of Medicine. During my time in medical school at Duke University I received formal research training through the Duke Clinical Research Training Program. My primary interests include risk prediction and assessment of heterogeneity of treatment effects in the context of peri-operative organ injury and critical care.
