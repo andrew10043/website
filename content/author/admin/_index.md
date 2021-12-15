@@ -20,11 +20,10 @@ email = "benjamin.andrew@duke.edu"
 
 # List (academic) interests or hobbies
 interests = [
-  "Cardiothoracic Anesthesiology",
-  "Critical Care Medicine",
-  "Perioperative Organ Protection",
+  "Pediatric Anesthesiology",
   "Risk Prediction Modeling",
   "Heterogeneity of Treatment Effects",
+  "Clinical Decision Making",
   "Statistics",
   "Epidemiology",
   "Data Visualization"
@@ -85,4 +84,4 @@ interests = [
 
 +++
 
-I am a resident physician-scientist in the Department of Anesthesiology at the Duke University School of Medicine. During my time in medical school at Duke University I received formal research training through the Duke Clinical Research Training Program. My primary interests include risk prediction and assessment of heterogeneity of treatment effects in the context of peri-operative organ injury and critical care.
+I am a resident physician-scientist in the Department of Anesthesiology at the Duke University School of Medicine. During my time in medical school at Duke University I received formal research training through the Duke Clinical Research Training Program. My primary interests include risk prediction and rigorous assessment of heterogeneity of treatment effects in an effort to develop tools to guide patient-specific clinical decisions in the perioperative period.
