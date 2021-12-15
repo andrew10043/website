@@ -41,11 +41,6 @@ interests = [
   year = 2018
 
 [[education.courses]]
-  course = "RD"
-  institution = "Brigham and Women's Hospital"
-  year = 2014
-
-[[education.courses]]
   course = "BS in Nutritional Sciences"
   institution = "Cornell University"
   year = 2013
