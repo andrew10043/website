@@ -79,4 +79,4 @@ interests = [
 
 +++
 
-I am a resident physician-scientist in the Department of Anesthesiology at the Duke University School of Medicine. During my time in medical school at Duke University I received formal research training through the Duke Clinical Research Training Program. My primary interests include risk prediction and rigorous assessment of heterogeneity of treatment effects in an effort to develop tools to guide patient-specific clinical decisions in the perioperative period.
+I am a resident physician-scientist in the Department of Anesthesiology at the Duke University School of Medicine with plans to pursue a fellowship in Pediatric Anesthesiology. My primary interests include risk prediction and rigorous assessment of heterogeneity of treatment effects in an effort to develop tools to guide patient-specific clinical decisions in the perioperative period.
