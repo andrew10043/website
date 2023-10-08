@@ -33,22 +33,22 @@ interests = [
 [[education.courses]]
   course = "Anesthesiology Residency"
   institution = "Duke University School of Medicine"
-  year = 2019-2023
+  year = 2023
 
 [[education.courses]]
   course = "MD"
   institution = "Duke University School of Medicine"
-  year = 2014-2019
+  year = 2019
   
 [[education.courses]]
   course = "MHS in Clinical Research"
   institution = "Duke University School of Medicine"
-  year = 2016-2018
+  year = 2018
 
 [[education.courses]]
   course = "BS in Nutritional Sciences"
   institution = "Cornell University"
-  year = 2009-2013
+  year = 2013
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
