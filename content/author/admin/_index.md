@@ -31,6 +31,11 @@ interests = [
 
 # List qualifications (such as academic degrees)
 [[education.courses]]
+  course = "Resident Physician"
+  institution = "Duke University School of Medicine | Department of Anesthesiology"
+  year = 2023
+
+[[education.courses]]
   course = "MD"
   institution = "Duke University School of Medicine"
   year = 2019
